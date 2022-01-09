@@ -7,4 +7,6 @@ audience.
 
 The notebook is divided into five main sections: Reading data, Exploratory Data Analysis, Clustering, Comparison and discussion.
 
+The dataset was downloaded from kaggle , which is 'mall customers'.
+
 
